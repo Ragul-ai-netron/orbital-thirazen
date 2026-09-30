@@ -1,6 +1,6 @@
 # 🛰️ ORBITAL v0.3 — THIRAZEN Mission Lab
 
-![ORBITAL Banner](./public/banner.gif)
+![ORBITAL THIRAZEN Mission Lab](./orbital-thirazen-banner.gif)
 
 > **Operate. Learn. Complete.**
 >
